@@ -1,2 +1,3 @@
-# machine-learning-lib
-# machine-learning-lib
+# Machine-Learning Library in Python
+
+Example code in "Machine Learning in Action"
